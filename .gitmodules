@@ -1,0 +1,3 @@
+[submodule "CentOS7_Lockdown"]
+	path = CentOS7_Lockdown
+	url = https://github.com/naingyeminn/CentOS7_Lockdown.git
